@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gizyyy
 - I’m a seasoned Software Developer with experience of Spring Boot, Java, Microservices, Relational and NoSQL databases, Message Queues ,Elastic Search and Redis, and Distributed Systems Design Patterns
-- I'm a self lerner, 
+- Apart from my Compuer Science Degree, I'm a life long self lerner.
 - 📫 How to reach me www.linkedin.com/in/gizem-yılmaz-42273621
 
 
