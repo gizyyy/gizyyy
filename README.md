@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @gizyyy
-
-- 📫 How to reach me www.linkedin.com/in/gizem-yılmaz-42273621
-
-
-<!---
-gizyyy/gizyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <div align="center">
 
 Hi there, I'm Gizem.👋
@@ -22,7 +11,7 @@ I’m a seasoned Software Developer with experience of Spring Boot, Java, Micros
 
 </br></br></br>
 
-### <h3 align="center"> - 📫 How to reach me:   </h3><br>
+### <h3 align="center"> 📫 How to reach me:   </h3><br>
 
 <p align="center"> <a href="https://www.github.com/gizyyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/justanordinarygizem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gizem-yilmaz-42273621/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
