@@ -2,7 +2,7 @@
 
 Hi there, I'm Gizem.👋
 
-I’m a seasoned Software Developer with experience of Spring Boot, Java, Microservices, Relational and NoSQL databases, Message Queues ,Elastic Search and Redis, and Distributed Systems Design Patterns. Apart from my Compuer Science Degree, I'm a life long self lerner.
+I’m a seasoned Software Developer with experience of Spring Boot, Java, Kotlin, Microservices, Relational and NoSQL databases, Message Queues ,Elastic Search and Redis, and Distributed Systems Design Patterns. Apart from my Compuer Science Degree, I'm a life long self lerner.
 
 </div>
 
